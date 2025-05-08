@@ -1,7 +1,7 @@
 # Red River
 ## Tributary in Kentucky(97.2 mi)
 
-The area shown is a part of Red river in east-central Kentucky
+The area shown is a part of Red river in east-central Kentucky. It contains fish like:longear sunfish, rock bass and bluegill!
 
 ![Red River Area ](Redriver1.jpg)     
 *Red River Area*
